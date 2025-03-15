@@ -1,0 +1,15 @@
+# Add the following to your gitignore:
+logs
+modernfix
+saves
+screenshots
+xaero
+XaeroWaypoints_BACKUP*
+emi.json
+heracles_options.json
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta

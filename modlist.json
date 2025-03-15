@@ -1,0 +1,609 @@
+[
+  {
+    "filename": "accessories-neoforge-1.0.0-beta.46+1.20.1.jar",
+    "fileid": "6201361"
+  },
+  {
+    "filename": "AchievementOptimizer-1.20.1-1.0.5.jar",
+    "fileid": "5363614"
+  },
+  {
+    "filename": "AdvancedLootInfo-forge-1.20.1-1.0.4.jar",
+    "fileid": "6280801"
+  },
+  {
+    "filename": "alltheleaks-0.1.0-beta+1.20.1-forge.jar",
+    "fileid": "5936734"
+  },
+  {
+    "filename": "almanac-1.20.x-forge-1.0.2.jar",
+    "fileid": "5803518"
+  },
+  {
+    "filename": "alternate_current-mc1.20-1.7.0.jar",
+    "fileid": "4721662"
+  },
+  {
+    "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "fileid": "4770828"
+  },
+  {
+    "filename": "appliedenergistics2-forge-15.3.3.jar",
+    "fileid": "6091401"
+  },
+  {
+    "filename": "architectury-9.2.14-forge.jar",
+    "fileid": "5137938"
+  },
+  {
+    "filename": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+    "fileid": "4911084"
+  },
+  {
+    "filename": "BadOptimizations-2.2.1-1.20.1.jar",
+    "fileid": "5961397"
+  },
+  {
+    "filename": "balm-forge-1.20.1-7.3.18-all.jar",
+    "fileid": "6224877"
+  },
+  {
+    "filename": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+    "fileid": "6010300"
+  },
+  {
+    "filename": "BetterAnimationsCollection-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4613527"
+  },
+  {
+    "filename": "BetterF3-7.0.2-Forge-1.20.1.jar",
+    "fileid": "4863626"
+  },
+  {
+    "filename": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+    "fileid": "5423987"
+  },
+  {
+    "filename": "bucketlib-1.20.1-2.3.5.3.jar",
+    "fileid": "6221102"
+  },
+  {
+    "filename": "catalogue-forge-1.20.1-1.8.0.jar",
+    "fileid": "4766090"
+  },
+  {
+    "filename": "chloride-FORGE-mc1.20.1-v1.5.4.jar",
+    "fileid": "6282598"
+  },
+  {
+    "filename": "clean_tooltips-1.0-forge-1.20.1.jar",
+    "fileid": "4703388"
+  },
+  {
+    "filename": "cloth-config-11.1.136-forge.jar",
+    "fileid": "5729105"
+  },
+  {
+    "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "fileid": "5278538"
+  },
+  {
+    "filename": "configured-forge-1.20.1-2.2.3.jar",
+    "fileid": "5180900"
+  },
+  {
+    "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+    "fileid": "4646682"
+  },
+  {
+    "filename": "Corgilib-Forge-1.20.1-4.0.3.3.jar",
+    "fileid": "6002849"
+  },
+  {
+    "filename": "corpse-forge-1.20.1-1.0.20.jar",
+    "fileid": "6121243"
+  },
+  {
+    "filename": "cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
+    "fileid": "6238931"
+  },
+  {
+    "filename": "cosmeticarmorreworked-1.20.1-v1a.jar",
+    "fileid": "4600191"
+  },
+  {
+    "filename": "craftingtweaks-forge-1.20.1-18.2.5.jar",
+    "fileid": "5623639"
+  },
+  {
+    "filename": "crash_assistant-forge-1.4.3.jar",
+    "fileid": "6222807"
+  },
+  {
+    "filename": "create-1.20.1-6.0.2.jar",
+    "fileid": "6271934"
+  },
+  {
+    "filename": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+    "fileid": "4917082"
+  },
+  {
+    "filename": "accessories_cclayer-7.4.0-beta.18+1.20.1.jar",
+    "fileid": "5786436"
+  },
+  {
+    "filename": "CutThrough-v8.0.2-1.20.1-Forge.jar",
+    "fileid": "5137980"
+  },
+  {
+    "filename": "DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+    "fileid": "5918173"
+  },
+  {
+    "filename": "DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+    "fileid": "5918171"
+  },
+  {
+    "filename": "DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
+    "fileid": "5918168"
+  },
+  {
+    "filename": "DripSounds-1.19.4-0.3.2.jar",
+    "fileid": "4579519"
+  },
+  {
+    "filename": "dynamiccrosshair-9.3+1.20.1-forge.jar",
+    "fileid": "5957364"
+  },
+  {
+    "filename": "emi-1.1.20+1.20.1+forge.jar",
+    "fileid": "6205514"
+  },
+  {
+    "filename": "emi_enchanting-0.1.2+1.20.1+forge.jar",
+    "fileid": "5733124"
+  },
+  {
+    "filename": "emi_loot-0.7.5+1.20.1+fix1+forge.jar",
+    "fileid": "6157014"
+  },
+  {
+    "filename": "emi_ores-1.2+1.20.1+forge.jar",
+    "fileid": "6060341"
+  },
+  {
+    "filename": "emitrades-forge-1.2.1+mc1.20.1.jar",
+    "fileid": "4901194"
+  },
+  {
+    "filename": "emiffect-forge-1.1.2+mc1.20.1.jar",
+    "fileid": "4901311"
+  },
+  {
+    "filename": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+    "fileid": "5156621"
+  },
+  {
+    "filename": "embeddium-0.3.31+mc1.20.1.jar",
+    "fileid": "5681725"
+  },
+  {
+    "filename": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+    "fileid": "5855251"
+  },
+  {
+    "filename": "extrasounds-1.20.1-forge-1.3.jar",
+    "fileid": "5304296"
+  },
+  {
+    "filename": "ExtremeSoundMuffler-3.49-forge-1.20.1.jar",
+    "fileid": "6279120"
+  },
+  {
+    "filename": "FarmersDelight-1.20.1-1.2.7.jar",
+    "fileid": "6154802"
+  },
+  {
+    "filename": "FastSuite-1.20.1-5.0.1.jar",
+    "fileid": "4711435"
+  },
+  {
+    "filename": "FastWorkbench-1.20.1-8.0.4.jar",
+    "fileid": "5101229"
+  },
+  {
+    "filename": "FastFurnace-1.20.1-8.0.2.jar",
+    "fileid": "5181098"
+  },
+  {
+    "filename": "ferritecore-6.0.1-forge.jar",
+    "fileid": "4810975"
+  },
+  {
+    "filename": "flerovium-forge-1.20.1-1.2.6-all.jar",
+    "fileid": "6203111"
+  },
+  {
+    "filename": "fzzy_config-0.6.5-fix1+1.20.1+forge.jar",
+    "fileid": "6283847"
+  },
+  {
+    "filename": "geckolib-forge-1.20.1-4.7.jar",
+    "fileid": "6027567"
+  },
+  {
+    "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+    "fileid": "5787839"
+  },
+  {
+    "filename": "global-server-config-forge-1.18.2+-1.0.jar",
+    "mod-id": "c5dOxpD8",
+    "version": "19JfFGV6"
+  },
+  {
+    "filename": "guideme-20.1.2.jar",
+    "fileid": "6175343"
+  },
+  {
+    "filename": "HeldItemTooltips-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4613438"
+  },
+  {
+    "filename": "Highlighter-1.20.1-forge-1.1.9.jar",
+    "fileid": "4985588"
+  },
+  {
+    "filename": "Iceberg-1.20.1-forge-1.1.25.jar",
+    "fileid": "5838149"
+  },
+  {
+    "filename": "ImmediatelyFast-Forge-1.3.6+1.20.4.jar",
+    "fileid": "6264746"
+  },
+  {
+    "filename": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+    "fileid": "6206989"
+  },
+  {
+    "filename": "ImmersiveUI-FORGE-0.3.0.jar",
+    "fileid": "6023593"
+  },
+  {
+    "filename": "ItemBorders-1.20.1-forge-1.2.2.jar",
+    "fileid": "5903326"
+  },
+  {
+    "filename": "Jade-1.20.1-Forge-11.13.1.jar",
+    "fileid": "6271651"
+  },
+  {
+    "filename": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+    "fileid": "6274674"
+  },
+  {
+    "filename": "justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar",
+    "fileid": "5984632"
+  },
+  {
+    "filename": "jeimultiblocks-1.20.1-1.0.4.jar",
+    "fileid": "6098226"
+  },
+  {
+    "filename": "jei-1.20.1-forge-15.20.0.106.jar",
+    "fileid": "6075247"
+  },
+  {
+    "filename": "kotlinforforge-4.11.0-all.jar",
+    "fileid": "5402061"
+  },
+  {
+    "filename": "Ksyxis-1.3.3.jar",
+    "fileid": "6174567"
+  },
+  {
+    "filename": "kubejs-forge-2001.6.5-build.16.jar",
+    "fileid": "5853326"
+  },
+  {
+    "filename": "kubejsadditions-forge-4.3.3.jar",
+    "fileid": "5817338"
+  },
+  {
+    "filename": "kubejs-create-forge-2001.3.0-build.8.jar",
+    "fileid": "6265498"
+  },
+  {
+    "filename": "LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4613293"
+  },
+  {
+    "filename": "letmedespawn-1.20.x-forge-1.4.4.jar",
+    "fileid": "5803583"
+  },
+  {
+    "filename": "ldlib-forge-1.20.1-1.0.37.jar",
+    "fileid": "6277506"
+  },
+  {
+    "filename": "Mantle-1.20.1-1.11.44.jar",
+    "fileid": "6258424"
+  },
+  {
+    "filename": "MapTooltip-forge-1.20.1-3.0.1.jar",
+    "fileid": "4628136"
+  },
+  {
+    "filename": "MRU-1.0.4+1.20.1+forge.jar",
+    "fileid": "5848512"
+  },
+  {
+    "filename": "mob-ai-tweaks-1.6.0-1.20.jar",
+    "fileid": "6079269"
+  },
+  {
+    "filename": "ModernUI-Forge-1.20.1-3.11.1.6-universal.jar",
+    "fileid": "6199942"
+  },
+  {
+    "filename": "modernfix-forge-5.20.2+mc1.20.1.jar",
+    "fileid": "6125143"
+  },
+  {
+    "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "fileid": "5338457"
+  },
+  {
+    "filename": "multiblocked2-1.20.1-1.0.25.a.jar",
+    "fileid": "6296680"
+  },
+  {
+    "filename": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "fileid": "4712189"
+  },
+  {
+    "filename": "no-caves-v1.1.jar",
+    "mod-id": "uZ30Htz0",
+    "version": "zy1QoJLu"
+  },
+  {
+    "filename": "no-silverfish-1.0.jar",
+    "mod-id": "UcKexvtV",
+    "version": "XoQhKt20"
+  },
+  {
+    "filename": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+    "fileid": "5650506"
+  },
+  {
+    "filename": "nolijium-0.5.6.jar",
+    "fileid": "6264798"
+  },
+  {
+    "filename": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+    "fileid": "5760231"
+  },
+  {
+    "filename": "Obscure-Tooltips-2.2.jar",
+    "fileid": "4686579"
+  },
+  {
+    "filename": "obscure_tooltips_fix-1.20.1-1.2.0-all.jar",
+    "fileid": "6284116"
+  },
+  {
+    "filename": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "fileid": "6274623"
+  },
+  {
+    "filename": "out_of_sight-1.20.1-1.0.3.jar",
+    "fileid": "4918792"
+  },
+  {
+    "filename": "OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+    "fileid": "5763974"
+  },
+  {
+    "filename": "packetfixer-forge-2.0.0-1.19-to-1.20.1.jar",
+    "fileid": "6195870"
+  },
+  {
+    "filename": "particular-1.20.1-Forge-1.0.0.jar",
+    "fileid": "6301280"
+  },
+  {
+    "filename": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "fileid": "6164575"
+  },
+  {
+    "filename": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4613538"
+  },
+  {
+    "filename": "Placebo-1.20.1-8.6.3.jar",
+    "fileid": "6274231"
+  },
+  {
+    "filename": "polymorph-forge-0.49.8+1.20.1.jar",
+    "fileid": "5995253"
+  },
+  {
+    "filename": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+    "fileid": "5015286"
+  },
+  {
+    "filename": "Pretty Rain-1.20.1-Forge-1.1.0.jar",
+    "fileid": "6195984"
+  },
+  {
+    "filename": "Prism-1.20.1-forge-1.0.5.jar",
+    "fileid": "4650325"
+  },
+  {
+    "filename": "probejs-6.0.1-forge.jar",
+    "fileid": "5227399"
+  },
+  {
+    "filename": "ProjectileSounds-1.20.1.jar",
+    "fileid": "5448841"
+  },
+  {
+    "filename": "PuzzlesLib-v8.1.29-1.20.1-Forge.jar",
+    "fileid": "6283733"
+  },
+  {
+    "filename": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+    "fileid": "5706069"
+  },
+  {
+    "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "fileid": "5659871"
+  },
+  {
+    "filename": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+    "fileid": "6231176"
+  },
+  {
+    "filename": "rhino-forge-2001.2.3-build.10.jar",
+    "fileid": "6186971"
+  },
+  {
+    "filename": "seamless-loading-screen-2.0.3+1.20.1-forge.jar",
+    "fileid": "4755295"
+  },
+  {
+    "filename": "Searchables-forge-1.20.1-1.0.3.jar",
+    "fileid": "5284015"
+  },
+  {
+    "filename": "ShoulderSurfing-Forge-1.20.1-4.10.1.jar",
+    "fileid": "6268158"
+  },
+  {
+    "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+    "fileid": "5016280"
+  },
+  {
+    "filename": "sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+    "fileid": "5991549"
+  },
+  {
+    "filename": "Sounds-2.2.1+1.20.1+forge.jar",
+    "fileid": "5940443"
+  },
+  {
+    "filename": "starlight-1.1.2+forge.1cda73c.jar",
+    "fileid": "4631193"
+  },
+  {
+    "filename": "StarlightxAE-1.20.1-1.0-forge.jar",
+    "fileid": "5239860"
+  },
+  {
+    "filename": "Stoneworks-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4611947"
+  },
+  {
+    "filename": "structure_layout_optimizer-forge-1.0.10.jar",
+    "fileid": "6125412"
+  },
+  {
+    "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+    "fileid": "6290448"
+  },
+  {
+    "filename": "TConstruct-1.20.1-3.9.2.37.jar",
+    "fileid": "6266282"
+  },
+  {
+    "filename": "TinkersLevellingAddon-1.20.1-1.4.2.jar",
+    "fileid": "6272717"
+  },
+  {
+    "filename": "Tips-Forge-1.20.1-12.1.8.jar",
+    "fileid": "5547510"
+  },
+  {
+    "filename": "uti_afac-1.1.3+1.20.1-forge.jar",
+    "fileid": "5865401"
+  },
+  {
+    "filename": "UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
+    "fileid": "4699171"
+  },
+  {
+    "filename": "UntranslatedItems-forge-1.20.1-1.7.jar",
+    "fileid": "4711897"
+  },
+  {
+    "filename": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+    "fileid": "4612695"
+  },
+  {
+    "filename": "visuality-forge-2.0.2.jar",
+    "fileid": "4684840"
+  },
+  {
+    "filename": "woodenbucket-1.20.1-2.1.0.0.jar",
+    "fileid": "4690935"
+  },
+  {
+    "filename": "woodenhopper-1.20.1-1.6.0.1.jar",
+    "fileid": "4705287"
+  },
+  {
+    "filename": "woodenshears-1.20.1-1.5.0.1.jar",
+    "fileid": "6289965"
+  },
+  {
+    "filename": "Xaeros_Minimap_25.1.0_Forge_1.20.jar",
+    "fileid": "6184430"
+  },
+  {
+    "filename": "XaerosWorldMap_1.39.4_Forge_1.20.jar",
+    "fileid": "6212636"
+  },
+  {
+    "filename": "YungsApi-1.20-Forge-4.0.6.jar",
+    "fileid": "5769971"
+  },
+  {
+    "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+    "fileid": "4769439"
+  },
+  {
+    "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+    "fileid": "5271360"
+  },
+  {
+    "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+    "fileid": "5331760"
+  },
+  {
+    "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+    "fileid": "4769063"
+  },
+  {
+    "filename": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+    "fileid": "5193465"
+  },
+  {
+    "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+    "fileid": "4883003"
+  },
+  {
+    "filename": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+    "fileid": "4769489"
+  },
+  {
+    "filename": "YungsBridges-1.20-Forge-4.0.3.jar",
+    "fileid": "4769518"
+  },
+  {
+    "filename": "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.1.jar",
+    "fileid": "6235713"
+  },
+  {
+    "filename": "spark-1.10.53-forge.jar",
+    "fileid": "4738952"
+  }
+]
