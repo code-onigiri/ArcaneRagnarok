@@ -1,10 +1,15 @@
 # Add the following to your gitignore:
 logs
 modernfix
+.mixin.out
+crash-reports
 saves
 screenshots
 xaero
 XaeroWaypoints_BACKUP*
+ESM
+local
+data
 emi.json
 heracles_options.json
 
